@@ -1,6 +1,7 @@
 # opencode_setting_up
 
-Настройка OpenCode,
+Настройка OpenCode.
+opencode — это агент кодирования искусственного интеллекта с открытым исходным кодом. Он доступен в виде интерфейса на базе терминала, настольного приложения или расширения IDE.
 Необходимые приложения:
 LM Studio,
 OpenCode.
@@ -20,7 +21,8 @@ Server running on http://localhost:1234/v1
 
 Поместите opencode.jsonc в место, указанное на картинке: opecCode_config_position.png
 
-Setting up OpenCode,
+Setting up OpenCode.
+Opencode is an open source artificial intelligence coding agent. It is available as a terminal-based interface, desktop application, or IDE extension.
 Required applications:
 LM Studio,
 OpenCode.
@@ -40,7 +42,8 @@ Server running on http://localhost:1234/v1
 
 Place the opencode.jsonc to the location shown in the picture: opecCode_config_position.png
 
-OpenCode einrichten,
+OpenCode einrichten.
+opencode ist ein Open-Source-Kodierungsagent für künstliche Intelligenz. Es ist als Terminal-basierte Schnittstelle, Desktop-Anwendung oder IDE-Erweiterung verfügbar.
 Erforderliche Anwendungen:
 LM Studio,
 OpenCode.
@@ -60,7 +63,8 @@ Server running on http://localhost:1234/v1
 
 Setzen Sie den Opencode ein.jsonc an die im Bild angegebene Stelle: opecCode_config_position.png
 
-设置OpenCode,
+设置OpenCode.
+Opencode是一个开源的人工智能编码代理. 它可作为基于终端的界面，桌面应用程序或IDE扩展使用。
 所需申请:
 LM Studio,
 OpenCode.
