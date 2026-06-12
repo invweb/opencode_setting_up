@@ -84,3 +84,17 @@ OpenCode.
 
 放置opencode。jsonc到如图所示的位置：opecCode_config_position。巴布亚新几内亚
 
+
+1. Русский:
+OpenCode — это открытый ИИ-ассистент для программирования, работающий в терминале. Он помогает разработчикам писать, рефакторить и анализировать код, поддерживает множество LLM (включая GPT, Claude, Gemini), работает автономно и интегрируется с GitHub и IDE. Отличается высокой приватностью, гибкостью и удобным текстовым интерфейсом (TUI).
+
+2. English:
+OpenCode is an open-source AI coding assistant that runs in your terminal. It helps developers write, refactor, and analyze code using large language models like GPT, Claude, and Gemini. With a focus on privacy, native TUI interface, and deep IDE integration, OpenCode empowers programmers to work smarter without leaving their workflow.
+
+3. Deutsch:
+OpenCode ist ein Open-Source-KI-Coding-Assistent, der im Terminal läuft. Er unterstützt Entwickler beim Schreiben, Refaktorisieren und Analysieren von Code mithilfe von großen Sprachmodellen wie GPT, Claude und Gemini. Dank lokaler Ausführung, TUI-Oberfläche und GitHub-Integration bietet er hohe Privatsphäre und Effizienz im Entwicklungsprozess.
+
+4. 中文 (Китайский):
+OpenCode 是一款开源的 AI 编程助手，可在终端中运行。它利用 GPT、Claude 和 Gemini 等大语言模型，帮助开发者编写、重构和分析代码。支持本地运行，注重隐私保护，拥有直观的文本界面（TUI），并可与 GitHub 和 IDE 深度集成，提升开发效率。
+
+
