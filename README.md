@@ -18,6 +18,8 @@ OpenCode.
 
 Server running on http://localhost:1234/v1
 
+Поместите opencode.jsonc в место, указанное на картинке: opecCode_config_position.png
+
 Setting up OpenCode,
 Required applications:
 LM Studio,
@@ -35,6 +37,8 @@ Go to Developer → Start Server.
 Make sure that the server is running:
 
 Server running on http://localhost:1234/v1
+
+Place the opencode.jsonc to the location shown in the picture: opecCode_config_position.png
 
 OpenCode einrichten,
 Erforderliche Anwendungen:
@@ -54,6 +58,8 @@ Stellen Sie sicher, dass der Server ausgeführt wird:
 
 Server running on http://localhost:1234/v1
 
+Setzen Sie den Opencode ein.jsonc an die im Bild angegebene Stelle: opecCode_config_position.png
+
 设置OpenCode,
 所需申请:
 LM Studio,
@@ -72,4 +78,5 @@ OpenCode.
 
 服务器上运行http://localhost:1234/v1
 
+放置opencode。jsonc到如图所示的位置：opecCode_config_position。巴布亚新几内亚
 
