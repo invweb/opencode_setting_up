@@ -1,0 +1,17 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "provider": {
+    "openai": {
+      "type": "openai",
+      "baseURL": "http://localhost:8080/v1",
+      "api_key": "sk-no-key-required",
+      "models": {
+        "google/gemma-4-e4b": {
+          "max_tokens": 8192,
+          "context_length": 32768
+        }
+      }
+    }
+  },
+  "model": "google/gemma-4-e4b"
+}
